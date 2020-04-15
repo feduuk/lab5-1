@@ -19,7 +19,7 @@ int main()
 	cout << "Введите число шагов: ";
 	int n;
 	double a = 0;
-	double b = M_PI;
+	double b = M_PI/4;
 	cin >> n;
 	double h = (b - a) / n;
 	double I = 0;
