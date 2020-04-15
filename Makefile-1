@@ -1,5 +1,5 @@
 all:
-	g++ prog1.cpp -o main
+	g++ prog1.cpp -o prog1
 	
 run:
-	main
+	prog1
