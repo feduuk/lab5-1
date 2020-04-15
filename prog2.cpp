@@ -5,7 +5,7 @@
 using namespace std;
 double func(double x)
 {
-	return sin(x);
+	return sin(x*x);
 }
 
 
